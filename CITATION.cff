@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software or its report, please cite it using this metadata."
+title: "HEV Fuzzy Energy Management"
+type: software
+version: 1.0.0
+date-released: 2026-07-19
+authors:
+  - given-names: Enes
+    family-names: Bayram
+  - given-names: Tural
+    family-names: Mammadli
+  - given-names: "Emir Kağan"
+    family-names: Duman
+  - given-names: "Emre Can"
+    family-names: Korkmaz
+  - given-names: Furkan
+    family-names: Kumru

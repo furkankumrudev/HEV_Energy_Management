@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# MATLAB
+report_figures/
+*.asv
+*.m~
+matlab_crash_dump.*
+slprj/
+
+# Local document archives and QA artifacts
+docs/archive/
+
+# Local agent/tool state
+.agents/
+.codex/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
