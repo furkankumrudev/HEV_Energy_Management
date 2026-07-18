@@ -1,7 +1,7 @@
 # HEV Fuzzy Energy Management
 
-A Mamdani fuzzy supervisory controller for a simplified hybrid-electric-
-vehicle power-split decision. Equivalent MATLAB, `.fis`, and pure-Python
+A Mamdani fuzzy supervisory controller for a simplified hybrid-electric-vehicle 
+power-split decision. Equivalent MATLAB, `.fis`, and pure-Python
 implementations are included and kept synchronized by regression tests.
 
 ## Highlights
